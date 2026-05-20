@@ -1,0 +1,13 @@
+# .gitignore
+
+# Entorno virtual
+
+# Variables de entorno
+.env
+
+# Archivos del IDE
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
